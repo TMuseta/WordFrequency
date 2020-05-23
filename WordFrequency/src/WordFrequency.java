@@ -96,7 +96,7 @@ public class WordFrequency {
 			num++;
 		}
 	}
-
+	
 	/**
 	 * Main method to test the WordFrequency class.
 	 * 
